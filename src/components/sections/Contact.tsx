@@ -29,7 +29,7 @@ const Contact = () => {
             className="flex items-center justify-center gap-3 p-4 rounded-xl bg-card border border-border/50 hover:border-accent/30 transition-colors group"
           >
             <Mail className="w-5 h-5 text-accent" />
-            <span className="text-foreground group-hover:text-accent transition-colors">kikyandriyanto@gmail.com</span>
+            <span className="text-foreground group-hover:text-accent transition-colors">kikyapriana.saragi@gmail.com</span>
           </a>
 
           <div className="flex items-center justify-center gap-3 p-4 rounded-xl bg-card border border-border/50">
@@ -39,7 +39,7 @@ const Contact = () => {
 
           <div className="flex gap-4 justify-center pt-4">
             <a
-              href="https://linkedin.com/in/kikyandriyanto"
+              href="https://linkedin.com/in/kikyapriana"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full bg-card border border-border/50 hover:border-accent/30 hover:text-accent transition-colors"
@@ -60,7 +60,7 @@ const Contact = () => {
       {/* Footer */}
       <div className="border-t border-border/50 mt-24 pt-8">
         <p className="text-center text-muted-foreground text-sm">
-          © {new Date().getFullYear()} Kiky Rizky Andriyanto. All rights reserved.
+          © {new Date().getFullYear()} Kiky Apriana Saragi. All rights reserved.
         </p>
       </div>
     </section>
