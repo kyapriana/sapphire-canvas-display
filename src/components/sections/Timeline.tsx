@@ -5,38 +5,38 @@ import { Briefcase, ChevronDown } from "lucide-react";
 
 const timeline = [
   {
-    year: "2024 – Present",
+    year: "2022 – Present",
     role: "Marketing Manager",
     company: "Grab",
     details: "Leading Grab's marketing initiatives in Indonesia, driving growth through data-driven campaigns and strategic partnerships. Awarded the Grab Way Award for exceptional leadership.",
   },
   {
-    year: "2022 – 2024",
-    role: "Marketing Manager",
+    year: "2021 – 2022",
+    role: "Brand Manager",
     company: "Frisian Flag Indonesia",
     details: "Led brand strategy for key product lines. Managed cross-functional teams and achieved significant market share growth. Won MMA Smarties Gold and Drum Award Bronze.",
   },
   {
-    year: "2020 – 2022",
-    role: "Group Product Manager",
+    year: "2019 – 2021",
+    role: "Trade Marketing Manager",
     company: "Wings Group",
     details: "Managed a portfolio of FMCG brands, overseeing product development and go-to-market strategy. Achieved 77% sales increase through strategic distribution development.",
   },
   {
-    year: "2018 – 2020",
+    year: "2016 – 2019",
     role: "Key Account Manager",
     company: "SC Johnson",
     details: "Managed key retail accounts and drove distribution expansion. Built strong trade relationships contributing to double-digit revenue growth.",
   },
   {
-    year: "2016 – 2018",
+    year: "2016",
     role: "Account Executive",
     company: "Trans Retail Indonesia",
     details: "Managed retail partnerships and sales strategies for one of Indonesia's largest retail chains. Developed negotiation skills and distribution networks.",
   },
   {
     year: "2014 – 2016",
-    role: "Management Trainee",
+    role: "Marketing Promotion Coordinator",
     company: "Nutrifood",
     details: "Began career in one of Indonesia's top health food companies, learning the fundamentals of FMCG marketing, sales, and distribution.",
   },
