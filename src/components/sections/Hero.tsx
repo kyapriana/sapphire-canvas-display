@@ -45,9 +45,9 @@ const Hero = () => {
               Marketing Leader · 10+ Years
             </motion.p>
             <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-              <span className="text-gradient">Kiky Rizky</span>
+              <span className="text-gradient">Kiky Apriana</span>
               <br />
-              <span className="text-foreground">Andriyanto</span>
+              <span className="text-foreground">Saragi</span>
             </h1>
             <p className="text-muted-foreground text-lg md:text-xl max-w-lg mb-8 font-light">
               Marketing Manager at Grab — Driving growth through strategic marketing, brand management, and data-driven campaigns across Indonesia's top FMCG & tech companies.
