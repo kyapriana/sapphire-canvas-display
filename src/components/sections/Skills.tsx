@@ -4,13 +4,14 @@ import { useScrollAnimation } from "@/hooks/useScrollAnimation";
 const skills = [
   { name: "Networking & Partnership", level: 95 },
   { name: "Marketing Strategy", level: 93 },
-  { name: "Sales & Distribution Development", level: 92 },
-  { name: "Negotiation", level: 91 },
-  { name: "Project Management", level: 89 },
+  { name: "Sales & Distribution Development", level: 85 },
+  { name: "Negotiation", level: 90 },
+  { name: "Project Management", level: 90 },
   { name: "B2B & B2C Strategy", level: 90 },
   { name: "Brand Campaigns (ATL & BTL)", level: 90 },
-  { name: "Data Analysis & Insights", level: 88 },
-  { name: "Account Management", level: 89 },
+  { name: "Data Analysis & Insights", level: 80 },
+  { name: "Account Management", level: 85 },
+  { name: "Managing AI", level: 85 }
 ];
 
 const Skills = () => {
