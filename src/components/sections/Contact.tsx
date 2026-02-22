@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { useScrollAnimation } from "@/hooks/useScrollAnimation";
-import { Mail, MapPin, Linkedin, Download } from "lucide-react";
+import { Mail, MapPin, Linkedin, Download, Phone } from "lucide-react";
 
 const Contact = () => {
   const { ref, isVisible } = useScrollAnimation();
@@ -25,11 +25,19 @@ const Contact = () => {
           className="max-w-md mx-auto space-y-6 text-center"
         >
           <a
-            href="mailto:kikyandriyanto@gmail.com"
+            href="mailto:kikyapriana.saragi@gmail.com"
             className="flex items-center justify-center gap-3 p-4 rounded-xl bg-card border border-border/50 hover:border-accent/30 transition-colors group"
           >
             <Mail className="w-5 h-5 text-accent" />
             <span className="text-foreground group-hover:text-accent transition-colors">kikyapriana.saragi@gmail.com</span>
+          </a>
+
+          <a
+            href="tel:+6282130007179"
+            className="flex items-center justify-center gap-3 p-4 rounded-xl bg-card border border-border/50 hover:border-accent/30 transition-colors group"
+          >
+            <Phone className="w-5 h-5 text-accent" />
+            <span className="text-foreground group-hover:text-accent transition-colors">+62 821-3000-7179</span>
           </a>
 
           <div className="flex items-center justify-center gap-3 p-4 rounded-xl bg-card border border-border/50">
@@ -57,7 +65,6 @@ const Contact = () => {
         </motion.div>
       </div>
 
-      {/* Footer */}
       <div className="border-t border-border/50 mt-24 pt-8">
         <p className="text-center text-muted-foreground text-sm">
           © {new Date().getFullYear()} Kiky Apriana Saragi. All rights reserved.
