@@ -31,15 +31,7 @@ const Contact = () => {
             <Mail className="w-5 h-5 text-accent" />
             <span className="text-foreground group-hover:text-accent transition-colors">kikyapriana.saragi@gmail.com</span>
           </a>
-
-          <a
-            href="tel:+6282130007179"
-            className="flex items-center justify-center gap-3 p-4 rounded-xl bg-card border border-border/50 hover:border-accent/30 transition-colors group"
-          >
-            <Phone className="w-5 h-5 text-accent" />
-            <span className="text-foreground group-hover:text-accent transition-colors">+62 821-3000-7179</span>
-          </a>
-
+        >
           <div className="flex items-center justify-center gap-3 p-4 rounded-xl bg-card border border-border/50">
             <MapPin className="w-5 h-5 text-accent" />
             <span className="text-foreground">Jakarta, Indonesia</span>
