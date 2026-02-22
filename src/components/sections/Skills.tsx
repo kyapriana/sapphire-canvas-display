@@ -11,7 +11,6 @@ const skills = [
   { name: "Brand Campaigns (ATL & BTL)", level: 90 },
   { name: "Data Analysis & Insights", level: 80 },
   { name: "Account Management", level: 85 },
-  { name: "Managing AI", level: 85 }
 ];
 
 const Skills = () => {
