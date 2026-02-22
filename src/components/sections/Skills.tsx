@@ -2,14 +2,15 @@ import { motion } from "framer-motion";
 import { useScrollAnimation } from "@/hooks/useScrollAnimation";
 
 const skills = [
-  { name: "Marketing Strategy", level: 95 },
-  { name: "Brand Management", level: 90 },
-  { name: "Distribution Development", level: 88 },
-  { name: "Project Management", level: 85 },
-  { name: "Negotiation", level: 92 },
-  { name: "Networking & Partnerships", level: 90 },
-  { name: "Data-Driven Campaigns", level: 85 },
-  { name: "Team Leadership", level: 88 },
+  { name: "Networking & Partnership", level: 95 },
+  { name: "Marketing Strategy", level: 93 },
+  { name: "Sales & Distribution Development", level: 92 },
+  { name: "Negotiation", level: 91 },
+  { name: "Project Management", level: 89 },
+  { name: "B2B & B2C Strategy", level: 90 },
+  { name: "Brand Campaigns (ATL & BTL)", level: 90 },
+  { name: "Data Analysis & Insights", level: 88 },
+  { name: "Account Management", level: 89 },
 ];
 
 const Skills = () => {
@@ -24,8 +25,8 @@ const Skills = () => {
           transition={{ duration: 0.6 }}
           className="text-center mb-16"
         >
-          <p className="text-accent tracking-widest uppercase text-sm mb-4">Expertise</p>
-          <h2 className="text-4xl md:text-5xl font-bold">Skills & Competencies</h2>
+          <p className="text-accent tracking-widest uppercase text-sm mb-4">Skills</p>
+          <h2 className="text-4xl md:text-5xl font-bold">Core Competencies</h2>
         </motion.div>
 
         <div className="max-w-2xl mx-auto space-y-6">

@@ -50,7 +50,7 @@ const Hero = () => {
               <span className="text-foreground">Saragi</span>
             </h1>
             <p className="text-muted-foreground text-lg md:text-xl max-w-lg mb-8 font-light">
-              Marketing Manager at Grab — Driving growth through strategic marketing, brand management, and data-driven campaigns across Indonesia's top FMCG & tech companies.
+              Marketing Manager at Grab Indonesia with 10+ years of experience across FMCG and technology sectors, focused on partnerships, brand campaigns, and measurable commercial growth.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
               <a
@@ -80,7 +80,7 @@ const Hero = () => {
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-accent/30 shadow-2xl">
                 <img
                   src={headshot}
-                  alt="Kiky Rizky Andriyanto"
+                  alt="Kiky Apriana Saragi"
                   className="w-full h-full object-cover"
                 />
               </div>

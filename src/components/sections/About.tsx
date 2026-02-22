@@ -5,7 +5,7 @@ import { useCountUp } from "@/hooks/useCountUp";
 const stats = [
   { value: 10, suffix: "+", label: "Years Experience" },
   { value: 5, suffix: "+", label: "Years in Management" },
-  { value: 77, suffix: "%", label: "Sales Increase Achieved" },
+  { value: 77, suffix: "%", label: "Top Sales Uplift Achieved" },
 ];
 
 const About = () => {
@@ -25,7 +25,7 @@ const About = () => {
             Crafting Growth Through Strategy
           </h2>
           <p className="text-muted-foreground text-lg leading-relaxed">
-            A results-driven marketing professional with over a decade of experience across Indonesia's leading FMCG and technology companies. I specialize in transforming brand strategies into measurable business outcomes — from launching nationwide campaigns to building high-performing teams that consistently exceed targets.
+            Marketing and sales professional with 10+ years of experience in marketing, sales, and account management, including 5 years in managerial roles. Proven track record in creating creative and innovative campaigns that drive growth, with strengths in planning, business analysis, and strategic stakeholder collaboration.
           </p>
         </motion.div>
 
